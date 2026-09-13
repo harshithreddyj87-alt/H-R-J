@@ -1,0 +1,7 @@
+{
+  "name": "Rise & Shine",
+  "description": "Educational and motivational platform for school students to learn, believe, grow, explore careers, and build positive habits.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
